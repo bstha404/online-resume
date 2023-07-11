@@ -18,8 +18,7 @@ A resume for a junior developer made using HTML ans CSS
 - But you can modify according to your needs.
 - By default, it has dark theme but you can make it light by replacing 'dark' with 'light' in the **root** section of the CSS file.
 - All the information are random except for profile pic, name and the socials.
-- If you are using this project to build your resume then feel free to share your URL with me at my socials, I will feature your URL [here](https://github.com/biplov-stha/online-resume/edit/main/README.md#resume-built-using-this-project).
-
+- If you are using this project to build your resume then feel free to share your URL with me at my socials, I will feature your URL below.
 
 ### Resume built using this project
 
