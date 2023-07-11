@@ -13,28 +13,29 @@ A resume for a junior developer made using HTML ans CSS
 
 ## Description
 
-- This resume is made using only Html and CSS.
-- This resume is mainly useful for a junior developer or who is starting journey as a software developer.
-- But anyone can modify according to their needs.
-- By default it has dark theme but you can make it light by editing the CSS file.
-- If you are using this project to build your resume then feel free to share your URL with me at my socials, I will feature your URL here.
+- This resume is made using only HTML and CSS.
+- This resume is mainly useful for a junior developer or the one who is starting journey as a software developer.
+- But you can modify according to your needs.
+- By default, it has dark theme but you can make it light by replacing 'dark' with 'light' in the **root** section of the CSS file.
+- All the information are random except for profile pic, name and the socials.
+- If you are using this project to build your resume then feel free to share your URL with me at my socials, I will feature your URL [here](https://github.com/biplov-stha/online-resume/edit/main/README.md#resume-built-using-this-project).
 
 
-#### Resume built using this project
+### Resume built using this project
 
 1. Your URL here
 2. .......
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bstha.netlify.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio_website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bstha.netlify.app/)
 [![telegram](https://img.shields.io/badge/telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stha_biplov)
 [![mastodon](https://img.shields.io/badge/mastodon-1DA1F2?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@bstha)
 
 
 ## Liked the project?
 
-Don't forget to follow me and give a star.
+Don't forget to **follow me** and **give a star ☆**.
 
 
 ## License
@@ -50,6 +51,6 @@ This project is highly inspired from [Shaif Arfan](https://github.com/ShaifArfan
 
 ## Feedback
 
-If you have any feedback, please reach out to me at biplovestha290@gmail.com
+If you have any feedback, please reach out to me at biplovestha290@gmail.com.
 
 
