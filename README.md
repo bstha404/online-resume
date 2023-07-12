@@ -1,11 +1,11 @@
 # online-resume
 
-A resume for a junior developer made using HTML ans CSS
+A resume for a junior developer made using HTML and CSS
 
 
 ## Screenshots
 
-![Dark-View](https://github.com/biplov-stha/online-resume/assets/137496709/c002bfe3-f8e0-4be9-980e-d6d1d1fd59b0)
+![Dark-View](https://github.com/biplov-stha/online-resume/assets/137496709/9f3be7d3-a615-4fbd-b9c1-d736ed4a2fa5)
 
 ![Light-View](https://github.com/biplov-stha/online-resume/assets/137496709/bd15c6b5-6362-4bdb-9ef8-c17d8f26db5e)
 
