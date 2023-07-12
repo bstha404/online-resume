@@ -1,6 +1,6 @@
 # online-resume
 
-A resume for a junior developer made using HTML and CSS
+**A resume for a junior developer made using HTML and CSS**
 
 
 ## Screenshots
