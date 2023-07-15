@@ -20,8 +20,6 @@
 	--text-color:var(--text-color-dark);
     --link-text-color:var(--link-text-color-dark);
     --bg-color:var(--bg-color-dark);
-
-
 }
 
 * {
@@ -109,8 +107,16 @@ a {
 	width: 90%;
 	margin: 0 auto;
 	display: grid;
-	padding: 3rem 1rem 1rem;
+	padding: 3rem 5rem 1rem;
 	gap: 5rem;
+}
+@media only screen and (max-width: 768px) {
+	.container_body {
+		width: 100%;
+		grid-template-columns: 1fr;
+		padding: 2rem 3rem 2rem;
+		gap: 4rem;
+	}
 }
 
 .group-3 {
@@ -234,8 +240,8 @@ a {
 	line-height: 2;
 }
 
-/* Contact 
-.contact_info {
+/* Contact */
+/*.contact_info {
 	margin-left: 1rem;
 }*/
 
