@@ -28,8 +28,8 @@
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio_website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bstha.netlify.app/)
-[![telegram](https://img.shields.io/badge/telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stha_biplov)
-[![mastodon](https://img.shields.io/badge/mastodon-1DA1F2?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@bstha)
+[![telegram](https://img.shields.io/badge/telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://bstha.netlify.app/telegram)
+[![mastodon](https://img.shields.io/badge/mastodon-1DA1F2?style=for-the-badge&logo=mastodon&logoColor=white)](https://bstha.netlify.app/mastodon)
 
 
 ## Liked the project?
